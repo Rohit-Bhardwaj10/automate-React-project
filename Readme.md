@@ -12,7 +12,7 @@ Before you can run the `initialize_react_project.py` script, make sure you have 
 
 *   This script uses npm to create and manage the React project.
 *   Ensure that you have Node.js and npm installed by running:
-    ```bash
+```bash
 node --version
 npm --version
 ```
@@ -48,7 +48,7 @@ npm --version
 ### Step 2: Run the Script
 
 *   You can run the script by executing the following command from your terminal (make sure you're in the same directory as the script):
-    ```bash
+```bash
 python3 initialize_react_project.py <your-project-name>
 ```
 *   Replace `<your-project-name>` with the desired name for your React project.
